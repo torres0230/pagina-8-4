@@ -1,67 +1,181 @@
+* {
+  padding: 0px;
 
-*{
+  margin: 0px;
+}
 
-    padding: 0px;
-    
-    margin: 0px;
-    
-    }
-    
-    
-    
-    
-    body{
-    
-    background-image: url("fondo.jpg");
-    
-    background-repeat: no-repeat;
-    
-    }
-    
-    
-    
-    .img{
-    
-    position: relative;
-    
-     
-    
-    width: 190px;
-    
-    height: 190px;
-    
-    border-radius: 10px;
-    
-    background-repeat: no-repeat;
-    
-     
-    
-    left: 180px;
-    
-    background-image: url("medellin.jpeg");
-    
-    }
-    
-    .contenedor{
-    
-     
-    
-    height: 230px;
-    
-     
-    
-    }
-    
-    .texto{
-    
-    font-size: 40px;
-    
-    text-align: justify;
-    
-    color: brown;
-    
-     
-    
-    }
-    
-    
+body {
+  background-image: url("Medellinn.jpg");
+
+  background-repeat: no-repeat;
+}
+
+.img {
+  position: absolute;
+
+  width: 190px;
+
+  height: 190px;
+
+  border-radius: 10px;
+
+  background-repeat: no-repeat;
+
+  left: 180px;
+
+  background-image: url("medellin.jpeg");
+}
+
+.contenedor {
+  height: 230px;
+}
+
+.texto {
+  font-size: 40px;
+
+  text-align: justify;
+
+  color: brown;
+}
+
+.imagentecno {
+  background-repeat: no-repeat;
+
+  float: left;
+
+  height: 200px;
+
+  width: 300px;
+
+  margin-left: 5px;
+
+  margin-right: 5px;
+
+  background-image: url("circuitos electricos.jpg");
+}
+
+.textotecno {
+  text-align: justify;
+
+  color: rgb(255, 255, 255);
+
+  font-size: 25px;
+}
+
+.imagensociales {
+  background-repeat: no-repeat;
+
+  float: left;
+
+  height: 340px;
+
+  width: 500px;
+
+  margin-left: 5px;
+
+  margin-right: 5px;
+
+  background-image: url("LA_CONDICION_HUMANA.png");
+}
+
+.textosociales {
+  text-align: justify;
+
+  color: rgb(255, 255, 255);
+
+  font-size: 25px;
+}
+
+.imagenmatematicas {
+  background-repeat: no-repeat;
+
+  float: left;
+
+  height: 340px;
+
+  width: 880px;
+
+  margin-left: 5px;
+
+  margin-right: 5px;
+
+  background-image: url("polinomios.gif");
+}
+
+.textomatematicas {
+  text-align: justify;
+
+  color: rgb(255, 255, 255);
+
+  font-size: 25px;
+}
+.imageningles {
+  background-repeat: no-repeat;
+
+  float: left;
+
+  height: 530px;
+
+  width: 700px;
+
+  margin-left: 5px;
+
+  margin-right: 5px;
+
+  background-image: url("emfermedades.png");
+}
+
+.textoingles {
+  text-align: justify;
+
+  color: rgb(151, 223, 70);
+
+  font-size: 25px;
+}
+
+.imagenetica {
+  background-repeat: no-repeat;
+
+  float: left;
+
+  height: 200px;
+
+  width: 260px;
+
+  margin-left: 5px;
+
+  margin-right: 5px;
+
+  background-image: url("estrellas.jpg");
+}
+
+.textoetica {
+  text-align: justify;
+
+  color: rgb(219, 90, 15);
+
+  font-size: 25px;
+}
+.imagenbiologia {
+  background-repeat: no-repeat;
+
+  float: left;
+
+  height: 200px;
+
+  width: 260px;
+
+  margin-left: 5px;
+
+  margin-right: 5px;
+
+  background-image: url("estrellas.jpg");
+}
+
+.textobiologia {
+  text-align: justify;
+
+  color: rgb(219, 90, 15);
+
+  font-size: 25px;
+}
