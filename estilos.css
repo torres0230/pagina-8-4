@@ -171,11 +171,42 @@ body {
 
   background-image: url("estrellas.jpg");
 }
-
 .textobiologia {
   text-align: justify;
 
   color: rgb(219, 90, 15);
 
   font-size: 25px;
+}
+
+.textotecnologia3 {
+  text-align: justify;
+
+  color: rgb(223, 167, 255);
+
+  font-size: 32px;
+}
+
+.textosociales3 {
+  text-align: justify;
+
+  color: rgb(145, 226, 215);
+
+  font-size: 32px;
+}
+
+.imagensociales3 {
+  background-repeat: no-repeat;
+
+  float: left;
+
+  height: 590px;
+
+  width: 1300px;
+
+  margin-left: 0px;
+
+  margin-right: 0px;
+
+  background-image: url("infografia p3 sociales.png");
 }
