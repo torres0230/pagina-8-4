@@ -210,3 +210,43 @@ body {
 
   background-image: url("infografia p3 sociales.png");
 }
+
+.textomatematicas3 {
+  text-align: justify;
+
+  color: rgb(145, 226, 215);
+
+  font-size: 32px;
+}
+
+.imagenmatematicas3 {
+  background-repeat: no-repeat;
+
+  float: left;
+
+  height: 200px;
+
+  width: 300px;
+
+  margin-left: 5px;
+
+  margin-right: 5px;
+
+  background-image: url("caso de factorizacion 22.png");
+}
+
+.textoingles3 {
+  text-align: justify;
+
+  color: rgb(145, 226, 215);
+
+  font-size: 32px;
+}
+
+.textoetica3 {
+  text-align: justify;
+
+  color: rgb(145, 226, 215);
+
+  font-size: 32px;
+}
